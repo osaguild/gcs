@@ -13,3 +13,11 @@ google cloud storageのplugin
 /wp-content/plugins/gcs
 ### site
 https://ja.wordpress.org/plugins/gcs/#installation
+
+# jin
+### discription
+wordpress theme
+### dir
+/wp-content/themes
+### site
+https://jin-theme.com/
