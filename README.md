@@ -1,9 +1,15 @@
-# wp_plugin
+# languages
+### discription
+wordpress日本語対応用のファイル
+### dir
+/wp-content/languages
+### site
+https://ja.wordpress.org/download/
 
-###languages
-dir -> /wp-content/languages
-site -> https://ja.wordpress.org/download/
-
-###gcs
-dir -> /wp-content/plugins/gcs
-site -> https://ja.wordpress.org/plugins/gcs/#installation
+# gcs
+### discription
+google cloud storageのplugin
+### dir
+/wp-content/plugins/gcs
+### site
+https://ja.wordpress.org/plugins/gcs/#installation
